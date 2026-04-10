@@ -1,4 +1,5 @@
 # Projet Système d'authentification par badge RFID avec journalisation et interface web
+### Auteur : Djenaba Olivia DIALLO & Mouhamadou Mokhtar THIAM
 
 ## Description
 - Arduino + MFRC522 scanne les badges RFID.
